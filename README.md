@@ -1,5 +1,6 @@
 ## Alumnos
 - Luis Angel Santiago Cruz 318243038
+- Ana Lilia Carballido Camacateco 315314601
 
 ## instrucciones 
     puedes modificar el archivo arbol.txt para cambiar la estructura del arbol
